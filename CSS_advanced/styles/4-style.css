@@ -9,11 +9,10 @@
     --font-family-base: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* font-family property */
     --font-family-title: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* font-family property */
 }
-
+/* Set body's font-family to font-family-base */
 body {
     font-family: var(--font-family-base);
 }
-
 /* Set font-family for all section headings */
 h1,
 h2,
