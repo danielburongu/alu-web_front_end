@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .box1 {
+    background-color: #3498db;
+  }
+  
+  .box2 {
+    background-color: #e74c3c;
+  }
+  
+  .box3 {
+    background-color: #2ecc71;
+  }
+  
+  .box4 {
+    background-color: #f39c12;
+  }
+  
+  .box5 {
+    background-color: #9b59b6;
+  }
+  
